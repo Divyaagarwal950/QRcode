@@ -60,7 +60,7 @@ def main():
           st.write("Your Password is \n ")
           st.write( result)
     if st.button("About"):
-          st.subheader("Developed by Ishu kumar")
+          st.subheader("Developed by divya agrawal")
           st.subheader(" Department of Computer Engineering")
 
 
